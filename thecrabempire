@@ -1,0 +1,103 @@
+print("what is your first and last names?")
+name = input()
+if name == "logan frisby":
+  print("welcome supreme elder crab")
+elif name == "mannix norheim":
+  print("welcome inferior supreme elder crab")
+elif name == "lillian bush":
+  print("welcome crab empire citizen")
+elif name == "sam witte":
+  print("welcome arbiter")
+elif name == "subscriber":
+  print("welcome subscriber")
+else:
+  print("name not recognized")
+  print("type enter to exit program")
+  exitkey = input()
+  if exitkey == (""):
+    print("exiting program")
+    exit()
+  else:
+    print("i didnt tell you to type " + exitkey + " jerk")
+    exit()
+
+    
+print("")   
+print("what is your password")
+password = input()
+if password == "nkway5984":
+  print("password accepted")
+  print("you are a supreme elder crab and you have unlimited access to the crab empire databases also you look nice today")
+  print("the crab empire is the last and only communist country")
+  print("location: [redacted]")
+  print("it is a dictatorship")
+  print("we have no nukes but dont tell the lobsters that")
+elif password == "axolotl19":
+  print("password accepted")
+  print("you are a supreme elder crab and you have unlimited access to the crab empire databases also those pants make you look fat")
+  print("the crab empire is the last and only communist country")
+  print("location: [redacted]")
+  print("it is a dictatorship")
+  print("we have no nukes but dont tell the lobsters that")
+elif password == "passcode20":
+  print("password acccepted")
+  print("you are a civilian crab you have very little access to the crab empire databases")
+  print("the crab empire is the last and only communist country")
+  print("location: [redacted]")
+  print("it is a dictatorship")
+elif password == "password24":
+  print("password accepted")
+  print("you are an arbiter you are a heretic seeking redemption you have no access to the files that are secrets")
+  print("the crab empire is the last and only communist country")
+  print("location: [redacted]")
+  print("it is a dictatorship")
+elif password == "crab4life":
+  print("password accepted")
+  print("the crab empire is a communist nation that intends on taking over the word")
+  print("thanks for subscribing")
+else:
+  print("password incorrect")
+  print("press enter to exit program")
+  exitkey2 = input()
+  if exitkey2 == "":
+    print("exiting program...")
+    exit()
+  else:
+    print("i didnt tell you to type " + exitkey2 + " jerk")
+    exit()
+
+print("")  
+print("what is your security code")
+code = input()
+if code == "scp173":
+  print("you have d-class security access you have no access to important files")
+elif code == "17396100":
+  print("clearance class 1")
+  print("logan and axolotl19 are the supreme elder crabs and they are at war with the lobsters")
+  print("the lobsters were not crabs so we killed them they were delicious")
+  print("they are now farmed for food and will start rebellions sometimes")
+elif code == "slaviccrab319":
+  print("clearance level 2")
+  print("logan and axolotl19 are the supreme elder crabs and they are at war with the lobsters")
+  print("the lobsters were not crabs so we killed the they were delicious")
+  print("they are now farmed for food and will start rebellions sometimes")
+  print("also some have escaped and formed colonies and tribes but we eat their babies in front of them and lock them up to be farmed for lobster meat")
+  print("we also eat crabs who feel sorry for the lobsters so dont")
+elif code == "cheekibreekilobsterchebureki":
+  print("clearance level 3")
+  print("logan and axolotl19 are the supreme elder crabs and they are at war with the lobsters")
+  print("the lobsters were not crabs so we killed the they were delicious")
+  print("they are now farmed for food and will start rebellions sometimes")
+  print("also some have escaped and formed colonies and tribes but we eat their babies in front of them and lock them up to be farmed for lobster meat")
+  print("we also eat crabs who feel sorry for the lobsters so dont")
+  print("we force lobsters to murder the crabs we eat than we feed them to everyone so the lobsters get called evil")
+else:
+  print("incorrect code")
+  print("press enter to exit worker")
+  exitkey3 = input()
+  if exitkey3 == "":
+    print("exiting program...")
+    exit()
+  else:
+    print("i didnt tell you to type " + exitkey3 + " jerk")
+    exit()
